@@ -4,7 +4,7 @@ NIM : 20175520002<br>
 PRODI : TEKNIK INFORMATIKA<br>
 MATA KULIAH : PEMROGRAMAN MOBILE (COE-5109)<br>
 
-#INSTALL FLUTTER TANPA ANDROID STUDIO <br>
+INSTALL FLUTTER TANPA ANDROID STUDIO <br>
 
 Langkah-langkah instalasi flutter (spesifikasi ringan) : <br>
 1. Download SDK Flutter. Silahkan kunjungi halaman download disini, dan sesuaikan dengan sistem operasi teman teman. saat tulisan ini dibuat flutter dalam versi 1.2.1 Stable. <br>
